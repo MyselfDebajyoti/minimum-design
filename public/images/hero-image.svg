@@ -1,0 +1,10 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#F9FAFB"/>
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#grid)" opacity="0.3"/>
+  <text x="960" y="540" text-anchor="middle" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="24" font-weight="300">Hero Background Image</text>
+</svg>
