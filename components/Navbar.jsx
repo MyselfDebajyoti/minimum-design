@@ -30,13 +30,13 @@ const Navbar = () => {
   }
 
   const navItems = [
-    { title: "Our Story", path: "/our-story" },
-    { title: "Our Ethos", path: "/bengali-culture" },
-    { title: "Service Offerings", path: "/events" },
-    { title: "Portfolio", path: "/bengali-school" },
-    { title: "People", path: "/join-basa" },
-    { title: "Careers", path: "/contact" },
-    { title: "Contact US", path: "/contact" },
+    { title: "Our Story", path: "#who-are-we" },
+    { title: "Our Ethos", path: "#our-ethos" },
+    { title: "Service Offerings", path: "#services" },
+    // { title: "Portfolio", path: "#portfolio" },
+    // { title: "People", path: "#people" },
+    // { title: "Careers", path: "#careers" },
+    { title: "Contact US", path: "#contact" },
   ];
 
   const toggleMenu = () => {
